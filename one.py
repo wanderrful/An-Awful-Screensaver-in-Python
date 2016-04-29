@@ -99,5 +99,5 @@ if __name__ == "__main__":
     theApp = App()
     theApp.onExecute()
     
-#made by michael lee,
+#made by github.com/wanderrful
 #with a little help here and there from r/programming
